@@ -9,18 +9,17 @@
 - [Etapas do Projeto](#etapas-do-projeto)
 - [Principais Insights](#principais-insights)
 - [Recomendações](#recomendacoes)
+- [Dashboard](#dashboard)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Dashboard](#dashboard)
-- [Dashboard](#dashboard)
 - [Sobre mim](#sobre-mim)
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto 
 
 Este projeto foi desenvolvido com o objetivo de analisar o desempenho de vendas de uma empresa do setor varejista, identificando fatores que influenciam a receita e a lucratividade.
 
 A análise foi conduzida utilizando Python para exploração e tratamento dos dados e Power BI para construção de um dashboard executivo, transformando dados em informações que apoiam a tomada de decisão.
 
-## 🎯 Objetivos
+## Objetivos
 
 Responder às seguintes perguntas de negócio:
 
@@ -32,12 +31,12 @@ Responder às seguintes perguntas de negócio:
 
 - Quais segmentos de clientes são mais rentáveis?
 
-## 🗂️ Dataset
+## Dataset
 
 Base: Superstore Sales Dataset
 Fonte: Kaggle
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -47,7 +46,7 @@ Fonte: Kaggle
 - Power BI
 - Jupyter Notebook
 
-## 🔎 Etapas do Projeto
+## Etapas do Projeto
 
 1. Importação dos dados
 
@@ -92,7 +91,7 @@ Página 2 – Análise de Rentabilidade
 - Produtos com prejuízo
 - Receita × Lucro
 
-## 📈 Principais Insights
+## Principais Insights
 
 A análise de lucratividade evidencia uma grande variação entre os pedidos. Enquanto alguns geram lucros elevados, outros apresentam margem negativa, indicando que determinadas vendas resultam em prejuízo para a empresa.
 
@@ -112,7 +111,7 @@ A análise temporal revela um padrão sazonal nas vendas. Observa-se um crescime
 
 A relação entre vendas e lucro não é diretamente proporcional. Períodos ou produtos com elevado volume de vendas nem sempre geram maior lucratividade. Isso ocorre porque parte das vendas é realizada com margens reduzidas ou até mesmo negativas, reforçando a importância de monitorar indicadores de rentabilidade além do faturamento.
 
-## 💡 Recomendações
+## Recomendações
 
 Com base na análise, recomenda-se:
 
@@ -121,7 +120,7 @@ Com base na análise, recomenda-se:
 - Expandir estratégias comerciais nas regiões com melhor desempenho.
 - Priorizar produtos com maior margem de lucro.
 
-## 📸 Dashboard
+## Dashboard
 
 Página 1 – Visão Executiva
 
@@ -135,7 +134,7 @@ Página 3 – Análise de Rentabilidade
 
 ![Dashboard Rentabilidade](images/dashboard_rentabilidade.png)
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 📁 Analise-Vendas 
 
@@ -177,11 +176,11 @@ Página 3 – Análise de Rentabilidade
     pip install pandas matplotlib seaborn numpy
 - Execute o notebook no Jupyter Notebook ou Google Colab.
 
-# 👩‍💻 Sobre Mim
+## Sobre Mim
 
 Sou Engenheira Química em transição para a área de Dados, estou desenvolvendo projetos práticos para consolidar conhecimentos em Python, Power BI e análise de dados, com foco na construção de um portfólio voltado para oportunidades como Analista de Dados.
 
-## Competências Demonstradas
+### Competências Demonstradas
 
 ✔ Limpeza e tratamento de dados
 

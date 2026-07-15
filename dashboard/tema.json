@@ -1,0 +1,50 @@
+{
+    "name": "Executivo Dark Blue",
+    "dataColors": [
+        "#00D2FF", 
+        "#0072FF", 
+        "#00F5D4", 
+        "#0B2545", 
+        "#134074", 
+        "#8DA9C4", 
+        "#EEF4F8", 
+        "#A3E5FF"
+    ],
+    "background": "#021526",
+    "foreground": "#00D2FF",
+    "tableAccent": "#0072FF",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#031E38" } },
+                        "transparency": 30
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#0D3B66" } },
+                        "radius": 8
+                    }
+                ],
+                "title": [
+                    {
+                        "show": true,
+                        "fontColor": { "solid": { "color": "#FFFFFF" } },
+                        "fontFamily": "Segoe UI",
+                        "fontSize": 12,
+                        "bold": true
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": { "solid": { "color": "#8DA9C4" } }
+                    }
+                ]
+            }
+        }
+    }
+}
