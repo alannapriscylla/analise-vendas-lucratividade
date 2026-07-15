@@ -6,12 +6,15 @@
 - [Objetivos](#objetivos)
 - [Dataset](#dataset)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Etapas do Projeto](#tecnologias-utilizadas)
+- [Etapas do Projeto](#etapas-do-projeto)
 - [Principais Insights](#principais-insights)
+- [Recomendações](#recomendacoes)
+- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Dashboard](#dashboard)
-- [Conclusão](#conclusao)
+- [Dashboard](#dashboard)
+- [Sobre mim](#sobre-mim)
 
-## 📌 Sobre o projeto
+## 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de analisar o desempenho de vendas de uma empresa do setor varejista, identificando fatores que influenciam a receita e a lucratividade.
 
@@ -34,7 +37,7 @@ Responder às seguintes perguntas de negócio:
 Base: Superstore Sales Dataset
 Fonte: Kaggle
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -44,7 +47,7 @@ Fonte: Kaggle
 - Power BI
 - Jupyter Notebook
 
-## 🔎 Etapas do projeto
+## 🔎 Etapas do Projeto
 
 1. Importação dos dados
 
@@ -89,7 +92,7 @@ Página 2 – Análise de Rentabilidade
 - Produtos com prejuízo
 - Receita × Lucro
 
-## 📈 Principais insights
+## 📈 Principais Insights
 
 A análise de lucratividade evidencia uma grande variação entre os pedidos. Enquanto alguns geram lucros elevados, outros apresentam margem negativa, indicando que determinadas vendas resultam em prejuízo para a empresa.
 
@@ -122,13 +125,17 @@ Com base na análise, recomenda-se:
 
 Página 1 – Visão Executiva
 
+![Pagina Inicial do Dashboard](images/menu_dashboard.png)
+
+Página 2 – Visão Executiva
+
 ![Dashboard Executivo](images/dashboard_executivo.png)
 
-Página 2 – Análise de Rentabilidade
+Página 3 – Análise de Rentabilidade
 
 ![Dashboard Rentabilidade](images/dashboard_rentabilidade.png)
 
-## 📂 Estrutura do projeto
+## 📂 Estrutura do Projeto
 
 📁 Analise-Vendas 
 
@@ -162,7 +169,7 @@ Página 2 – Análise de Rentabilidade
 
 └── README.md
 
-### 🚀 Como executar
+### 🚀 Como Executar
 
 - Clone este repositório.
 - Instale as dependências:
@@ -170,7 +177,7 @@ Página 2 – Análise de Rentabilidade
     pip install pandas matplotlib seaborn numpy
 - Execute o notebook no Jupyter Notebook ou Google Colab.
 
-## 👩‍💻 Sobre mim
+# 👩‍💻 Sobre Mim
 
 Sou Engenheira Química em transição para a área de Dados, estou desenvolvendo projetos práticos para consolidar conhecimentos em Python, Power BI e análise de dados, com foco na construção de um portfólio voltado para oportunidades como Analista de Dados.
 
